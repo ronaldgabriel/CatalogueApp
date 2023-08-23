@@ -1,0 +1,17 @@
+{
+  "name": "catalogueweb",
+  "version": "1.0.0",
+  "description": "Este sera el app web bacon House",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+
+  },
+  "author": "ronald perdomo",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
